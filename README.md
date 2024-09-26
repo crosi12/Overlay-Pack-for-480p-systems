@@ -16,3 +16,6 @@ WonderSwan Color
 Accurate Perfect GBA SP
 
 ![Perfect_GBASP_bright_mugwomp93_dark_noshadow](https://github.com/user-attachments/assets/42ff5c56-27b2-4158-8b41-2fd726424302)
+![Perfect_GBASP-colorgradient_bright_mugwomp93_dark_noshadow](https://github.com/user-attachments/assets/c7ae457c-6d29-4bf5-9b62-9d85d741c9e8)
+![Perfect_GBASP-SPCOLOR_bright_mugwomp93_dark_noshadow](https://github.com/user-attachments/assets/c3aab1f5-6243-4d59-8b8b-15737e91496f)
+![Perfect_GBASP-nogreygradient_bright_mugwomp93_dark_noshadow](https://github.com/user-attachments/assets/20aa7cb5-9ca4-42cb-98c8-c172a1c45b46)
