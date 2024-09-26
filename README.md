@@ -13,7 +13,7 @@ WonderSwan Color
 ![wsc_alt3](https://github.com/user-attachments/assets/f685d29e-8c4d-4e94-bb55-8a045d86e779)
 ![wsc_alt2](https://github.com/user-attachments/assets/3ea51007-f884-4a2d-a7c7-3433230e96d4)
 
-Accurate Perfect GBA SP (based on https://github.com/ourigen/perfect_overlays )
+Accurate Perfect GBA SP (based on https://github.com/mugwomp93/muOS_Customization )
 
 ![Perfect_GBASP_bright_mugwomp93_dark_noshadow](https://github.com/user-attachments/assets/8fa7360a-ce64-44da-8704-aeeae110781e)
 ![Perfect_GBASP-colorgradient_bright_mugwomp93_dark_noshadow](https://github.com/user-attachments/assets/82a33fac-c344-4602-ae9f-50affdf3b926)
