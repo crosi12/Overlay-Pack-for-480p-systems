@@ -1,9 +1,10 @@
 NeoGeo Pocket and NeoGeo Pocket Color
 
-![ngp](https://github.com/user-attachments/assets/854721f4-4583-48a8-8565-9c6fb9e3ecfc)
-![ngpc](https://github.com/user-attachments/assets/25d9b0c7-d80e-4523-ac76-a1fc2c4901f5)
-![ngpc_alt](https://github.com/user-attachments/assets/6f756b27-172f-42f0-ad61-28f0267c7424)
-![ngpc_alt2](https://github.com/user-attachments/assets/208c6b4b-0405-4d7f-9556-1bc88eb83de0)
+![ngp](https://github.com/user-attachments/assets/323d078d-27d1-4f28-875f-b9b4e4a74387)
+![ngpc](https://github.com/user-attachments/assets/589ec3bb-5aa9-47fb-894d-943771b1efec)
+![ngpc_alt](https://github.com/user-attachments/assets/0abb05bc-14ef-4b91-95d8-95f5ba311578)
+![ngpc_alt2](https://github.com/user-attachments/assets/3da8b2f6-58c3-4c10-a003-1acfd76ea915)
+
 
 WonderSwan Color
 
