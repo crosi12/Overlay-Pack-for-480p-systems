@@ -8,11 +8,9 @@ NeoGeo Pocket and NeoGeo Pocket Color
 
 WonderSwan Color
 
-![wsc](https://github.com/user-attachments/assets/2d6308c8-488e-468b-bfa3-dd261d184ea7)
-![wsc_alt](https://github.com/user-attachments/assets/d584e017-30de-49fa-af05-c605138640c6)
-![wsc_alt4](https://github.com/user-attachments/assets/75b6894e-810c-4648-aa5b-44d40914549f)
-![wsc_alt3](https://github.com/user-attachments/assets/f685d29e-8c4d-4e94-bb55-8a045d86e779)
-![wsc_alt2](https://github.com/user-attachments/assets/3ea51007-f884-4a2d-a7c7-3433230e96d4)
+![wsc](https://github.com/user-attachments/assets/9eb1fc8d-c5c0-4ee4-867b-45b984103044)
+![wsc_alt](https://github.com/user-attachments/assets/5358683c-3d04-482f-9e43-a68b9138b7eb)
+
 
 Accurate Perfect GBA SP (based on https://github.com/mugwomp93/muOS_Customization )
 
